@@ -143,435 +143,723 @@
 141,2018,Pop/R&B,New Album Count,132.0
 142,2018,Rap,New Album Count,228.0
 143,2018,Rock,New Album Count,319.0
-144,2003,Electronic,Best New Music Count,14.0
-145,2003,Experimental,Best New Music Count,11.0
-146,2003,Folk/Country,Best New Music Count,2.0
-147,2003,Global,Best New Music Count,0.0
-148,2003,Jazz,Best New Music Count,0.0
-149,2003,Metal,Best New Music Count,0.0
-150,2003,Pop/R&B,Best New Music Count,0.0
-151,2003,Rap,Best New Music Count,6.0
-152,2003,Rock,Best New Music Count,14.0
-153,2004,Electronic,Best New Music Count,11.0
-154,2004,Experimental,Best New Music Count,8.0
-155,2004,Folk/Country,Best New Music Count,4.0
-156,2004,Global,Best New Music Count,0.0
-157,2004,Jazz,Best New Music Count,0.0
-158,2004,Metal,Best New Music Count,0.0
-159,2004,Pop/R&B,Best New Music Count,0.0
-160,2004,Rap,Best New Music Count,4.0
-161,2004,Rock,Best New Music Count,16.0
-162,2005,Electronic,Best New Music Count,4.0
-163,2005,Experimental,Best New Music Count,5.0
-164,2005,Folk/Country,Best New Music Count,3.0
-165,2005,Global,Best New Music Count,0.0
-166,2005,Jazz,Best New Music Count,1.0
-167,2005,Metal,Best New Music Count,0.0
-168,2005,Pop/R&B,Best New Music Count,1.0
-169,2005,Rap,Best New Music Count,4.0
-170,2005,Rock,Best New Music Count,21.0
-171,2006,Electronic,Best New Music Count,6.0
-172,2006,Experimental,Best New Music Count,3.0
-173,2006,Folk/Country,Best New Music Count,1.0
-174,2006,Global,Best New Music Count,0.0
-175,2006,Jazz,Best New Music Count,0.0
-176,2006,Metal,Best New Music Count,2.0
-177,2006,Pop/R&B,Best New Music Count,1.0
-178,2006,Rap,Best New Music Count,2.0
-179,2006,Rock,Best New Music Count,16.0
-180,2007,Electronic,Best New Music Count,13.0
-181,2007,Experimental,Best New Music Count,4.0
-182,2007,Folk/Country,Best New Music Count,2.0
-183,2007,Global,Best New Music Count,0.0
-184,2007,Jazz,Best New Music Count,0.0
-185,2007,Metal,Best New Music Count,0.0
-186,2007,Pop/R&B,Best New Music Count,1.0
-187,2007,Rap,Best New Music Count,3.0
-188,2007,Rock,Best New Music Count,20.0
-189,2008,Electronic,Best New Music Count,12.0
-190,2008,Experimental,Best New Music Count,6.0
-191,2008,Folk/Country,Best New Music Count,3.0
-192,2008,Global,Best New Music Count,0.0
-193,2008,Jazz,Best New Music Count,0.0
-194,2008,Metal,Best New Music Count,2.0
-195,2008,Pop/R&B,Best New Music Count,0.0
-196,2008,Rap,Best New Music Count,1.0
-197,2008,Rock,Best New Music Count,12.0
-198,2009,Electronic,Best New Music Count,12.0
-199,2009,Experimental,Best New Music Count,6.0
-200,2009,Folk/Country,Best New Music Count,0.0
-201,2009,Global,Best New Music Count,0.0
-202,2009,Jazz,Best New Music Count,0.0
-203,2009,Metal,Best New Music Count,1.0
-204,2009,Pop/R&B,Best New Music Count,0.0
-205,2009,Rap,Best New Music Count,2.0
-206,2009,Rock,Best New Music Count,23.0
-207,2010,Electronic,Best New Music Count,10.0
-208,2010,Experimental,Best New Music Count,1.0
-209,2010,Folk/Country,Best New Music Count,3.0
-210,2010,Global,Best New Music Count,0.0
-211,2010,Jazz,Best New Music Count,1.0
-212,2010,Metal,Best New Music Count,1.0
-213,2010,Pop/R&B,Best New Music Count,11.0
-214,2010,Rap,Best New Music Count,4.0
-215,2010,Rock,Best New Music Count,24.0
-216,2011,Electronic,Best New Music Count,9.0
-217,2011,Experimental,Best New Music Count,6.0
-218,2011,Folk/Country,Best New Music Count,1.0
-219,2011,Global,Best New Music Count,0.0
-220,2011,Jazz,Best New Music Count,0.0
-221,2011,Metal,Best New Music Count,3.0
-222,2011,Pop/R&B,Best New Music Count,5.0
-223,2011,Rap,Best New Music Count,6.0
-224,2011,Rock,Best New Music Count,17.0
-225,2012,Electronic,Best New Music Count,8.0
-226,2012,Experimental,Best New Music Count,5.0
-227,2012,Folk/Country,Best New Music Count,0.0
-228,2012,Global,Best New Music Count,0.0
-229,2012,Jazz,Best New Music Count,0.0
-230,2012,Metal,Best New Music Count,3.0
-231,2012,Pop/R&B,Best New Music Count,7.0
-232,2012,Rap,Best New Music Count,5.0
-233,2012,Rock,Best New Music Count,22.0
-234,2013,Electronic,Best New Music Count,17.0
-235,2013,Experimental,Best New Music Count,9.0
-236,2013,Folk/Country,Best New Music Count,1.0
-237,2013,Global,Best New Music Count,0.0
-238,2013,Jazz,Best New Music Count,0.0
-239,2013,Metal,Best New Music Count,1.0
-240,2013,Pop/R&B,Best New Music Count,7.0
-241,2013,Rap,Best New Music Count,7.0
-242,2013,Rock,Best New Music Count,16.0
-243,2014,Electronic,Best New Music Count,9.0
-244,2014,Experimental,Best New Music Count,4.0
-245,2014,Folk/Country,Best New Music Count,1.0
-246,2014,Global,Best New Music Count,0.0
-247,2014,Jazz,Best New Music Count,0.0
-248,2014,Metal,Best New Music Count,1.0
-249,2014,Pop/R&B,Best New Music Count,5.0
-250,2014,Rap,Best New Music Count,2.0
-251,2014,Rock,Best New Music Count,17.0
-252,2015,Electronic,Best New Music Count,10.0
-253,2015,Experimental,Best New Music Count,6.0
-254,2015,Folk/Country,Best New Music Count,2.0
-255,2015,Global,Best New Music Count,0.0
-256,2015,Jazz,Best New Music Count,2.0
-257,2015,Metal,Best New Music Count,2.0
-258,2015,Pop/R&B,Best New Music Count,8.0
-259,2015,Rap,Best New Music Count,6.0
-260,2015,Rock,Best New Music Count,11.0
-261,2016,Electronic,Best New Music Count,3.0
-262,2016,Experimental,Best New Music Count,4.0
-263,2016,Folk/Country,Best New Music Count,0.0
-264,2016,Global,Best New Music Count,1.0
-265,2016,Jazz,Best New Music Count,2.0
-266,2016,Metal,Best New Music Count,0.0
-267,2016,Pop/R&B,Best New Music Count,11.0
-268,2016,Rap,Best New Music Count,10.0
-269,2016,Rock,Best New Music Count,18.0
-270,2017,Electronic,Best New Music Count,10.0
-271,2017,Experimental,Best New Music Count,2.0
-272,2017,Folk/Country,Best New Music Count,2.0
-273,2017,Global,Best New Music Count,1.0
-274,2017,Jazz,Best New Music Count,2.0
-275,2017,Metal,Best New Music Count,1.0
-276,2017,Pop/R&B,Best New Music Count,7.0
-277,2017,Rap,Best New Music Count,8.0
-278,2017,Rock,Best New Music Count,14.0
-279,2018,Electronic,Best New Music Count,5.0
-280,2018,Experimental,Best New Music Count,3.0
-281,2018,Folk/Country,Best New Music Count,1.0
-282,2018,Global,Best New Music Count,0.0
-283,2018,Jazz,Best New Music Count,1.0
-284,2018,Metal,Best New Music Count,2.0
-285,2018,Pop/R&B,Best New Music Count,7.0
-286,2018,Rap,Best New Music Count,12.0
-287,2018,Rock,Best New Music Count,13.0
-288,2003,Electronic,Best New Music Proportion,0.0546875
-289,2003,Experimental,Best New Music Proportion,0.10091743119266056
-290,2003,Folk/Country,Best New Music Proportion,0.06451612903225806
-291,2003,Global,Best New Music Proportion,0.0
-292,2003,Jazz,Best New Music Proportion,0.0
-293,2003,Metal,Best New Music Proportion,0.0
-294,2003,Pop/R&B,Best New Music Proportion,0.0
-295,2003,Rap,Best New Music Proportion,0.1
-296,2003,Rock,Best New Music Proportion,0.03349282296650718
-297,2004,Electronic,Best New Music Proportion,0.046218487394957986
-298,2004,Experimental,Best New Music Proportion,0.06451612903225806
-299,2004,Folk/Country,Best New Music Proportion,0.08888888888888889
-300,2004,Global,Best New Music Proportion,0.0
-301,2004,Jazz,Best New Music Proportion,0.0
-302,2004,Metal,Best New Music Proportion,0.0
-303,2004,Pop/R&B,Best New Music Proportion,0.0
-304,2004,Rap,Best New Music Proportion,0.05714285714285714
-305,2004,Rock,Best New Music Proportion,0.03818615751789976
-306,2005,Electronic,Best New Music Proportion,0.015873015873015872
-307,2005,Experimental,Best New Music Proportion,0.04065040650406504
-308,2005,Folk/Country,Best New Music Proportion,0.06521739130434782
-309,2005,Global,Best New Music Proportion,0.0
-310,2005,Jazz,Best New Music Proportion,0.1
-311,2005,Metal,Best New Music Proportion,0.0
-312,2005,Pop/R&B,Best New Music Proportion,0.02
-313,2005,Rap,Best New Music Proportion,0.0547945205479452
-314,2005,Rock,Best New Music Proportion,0.046255506607929514
-315,2006,Electronic,Best New Music Proportion,0.025423728813559324
-316,2006,Experimental,Best New Music Proportion,0.025423728813559324
-317,2006,Folk/Country,Best New Music Proportion,0.018518518518518517
-318,2006,Global,Best New Music Proportion,0.0
-319,2006,Jazz,Best New Music Proportion,0.0
-320,2006,Metal,Best New Music Proportion,0.04081632653061224
-321,2006,Pop/R&B,Best New Music Proportion,0.014925373134328358
-322,2006,Rap,Best New Music Proportion,0.03125
-323,2006,Rock,Best New Music Proportion,0.033542976939203356
-324,2007,Electronic,Best New Music Proportion,0.05652173913043478
-325,2007,Experimental,Best New Music Proportion,0.03508771929824561
-326,2007,Folk/Country,Best New Music Proportion,0.028169014084507043
-327,2007,Global,Best New Music Proportion,0.0
-328,2007,Jazz,Best New Music Proportion,0.0
-329,2007,Metal,Best New Music Proportion,0.0
-330,2007,Pop/R&B,Best New Music Proportion,0.01639344262295082
-331,2007,Rap,Best New Music Proportion,0.046875
-332,2007,Rock,Best New Music Proportion,0.04065040650406504
-333,2008,Electronic,Best New Music Proportion,0.05357142857142857
-334,2008,Experimental,Best New Music Proportion,0.05309734513274336
-335,2008,Folk/Country,Best New Music Proportion,0.04838709677419355
-336,2008,Global,Best New Music Proportion,0.0
-337,2008,Jazz,Best New Music Proportion,0.0
-338,2008,Metal,Best New Music Proportion,0.03508771929824561
-339,2008,Pop/R&B,Best New Music Proportion,0.0
-340,2008,Rap,Best New Music Proportion,0.013333333333333334
-341,2008,Rock,Best New Music Proportion,0.026200873362445413
-342,2009,Electronic,Best New Music Proportion,0.049586776859504134
-343,2009,Experimental,Best New Music Proportion,0.06
-344,2009,Folk/Country,Best New Music Proportion,0.0
-345,2009,Global,Best New Music Proportion,0.0
-346,2009,Jazz,Best New Music Proportion,0.0
-347,2009,Metal,Best New Music Proportion,0.02631578947368421
-348,2009,Pop/R&B,Best New Music Proportion,0.0
-349,2009,Rap,Best New Music Proportion,0.029850746268656716
-350,2009,Rock,Best New Music Proportion,0.05077262693156733
-351,2010,Electronic,Best New Music Proportion,0.033444816053511704
-352,2010,Experimental,Best New Music Proportion,0.009433962264150943
-353,2010,Folk/Country,Best New Music Proportion,0.057692307692307696
-354,2010,Global,Best New Music Proportion,0.0
-355,2010,Jazz,Best New Music Proportion,0.09090909090909091
-356,2010,Metal,Best New Music Proportion,0.023809523809523808
-357,2010,Pop/R&B,Best New Music Proportion,0.14102564102564102
-358,2010,Rap,Best New Music Proportion,0.047619047619047616
-359,2010,Rock,Best New Music Proportion,0.06015037593984962
-360,2011,Electronic,Best New Music Proportion,0.028125
-361,2011,Experimental,Best New Music Proportion,0.05660377358490566
-362,2011,Folk/Country,Best New Music Proportion,0.022222222222222223
-363,2011,Global,Best New Music Proportion,0.0
-364,2011,Jazz,Best New Music Proportion,0.0
-365,2011,Metal,Best New Music Proportion,0.08571428571428572
-366,2011,Pop/R&B,Best New Music Proportion,0.06578947368421052
-367,2011,Rap,Best New Music Proportion,0.061855670103092786
-368,2011,Rock,Best New Music Proportion,0.044854881266490766
-369,2012,Electronic,Best New Music Proportion,0.027972027972027972
-370,2012,Experimental,Best New Music Proportion,0.049019607843137254
-371,2012,Folk/Country,Best New Music Proportion,0.0
-372,2012,Global,Best New Music Proportion,0.0
-373,2012,Jazz,Best New Music Proportion,0.0
-374,2012,Metal,Best New Music Proportion,0.03225806451612903
-375,2012,Pop/R&B,Best New Music Proportion,0.09859154929577464
-376,2012,Rap,Best New Music Proportion,0.03546099290780142
-377,2012,Rock,Best New Music Proportion,0.06321839080459771
-378,2013,Electronic,Best New Music Proportion,0.06007067137809187
-379,2013,Experimental,Best New Music Proportion,0.08256880733944955
-380,2013,Folk/Country,Best New Music Proportion,0.03225806451612903
-381,2013,Global,Best New Music Proportion,0.0
-382,2013,Jazz,Best New Music Proportion,0.0
-383,2013,Metal,Best New Music Proportion,0.011363636363636364
-384,2013,Pop/R&B,Best New Music Proportion,0.08333333333333333
-385,2013,Rap,Best New Music Proportion,0.0660377358490566
-386,2013,Rock,Best New Music Proportion,0.04155844155844156
-387,2014,Electronic,Best New Music Proportion,0.03488372093023256
-388,2014,Experimental,Best New Music Proportion,0.04
-389,2014,Folk/Country,Best New Music Proportion,0.027777777777777776
-390,2014,Global,Best New Music Proportion,0.0
-391,2014,Jazz,Best New Music Proportion,0.0
-392,2014,Metal,Best New Music Proportion,0.009523809523809525
-393,2014,Pop/R&B,Best New Music Proportion,0.06329113924050633
-394,2014,Rap,Best New Music Proportion,0.020202020202020204
-395,2014,Rock,Best New Music Proportion,0.049132947976878616
-396,2015,Electronic,Best New Music Proportion,0.050505050505050504
-397,2015,Experimental,Best New Music Proportion,0.075
-398,2015,Folk/Country,Best New Music Proportion,0.05405405405405406
-399,2015,Global,Best New Music Proportion,0.0
-400,2015,Jazz,Best New Music Proportion,0.16666666666666666
-401,2015,Metal,Best New Music Proportion,0.03278688524590164
-402,2015,Pop/R&B,Best New Music Proportion,0.0851063829787234
-403,2015,Rap,Best New Music Proportion,0.03870967741935484
-404,2015,Rock,Best New Music Proportion,0.02736318407960199
-405,2016,Electronic,Best New Music Proportion,0.012711864406779662
-406,2016,Experimental,Best New Music Proportion,0.0380952380952381
-407,2016,Folk/Country,Best New Music Proportion,0.0
-408,2016,Global,Best New Music Proportion,0.05555555555555555
-409,2016,Jazz,Best New Music Proportion,0.08
-410,2016,Metal,Best New Music Proportion,0.0
-411,2016,Pop/R&B,Best New Music Proportion,0.09821428571428571
-412,2016,Rap,Best New Music Proportion,0.056179775280898875
-413,2016,Rock,Best New Music Proportion,0.05504587155963303
-414,2017,Electronic,Best New Music Proportion,0.04608294930875576
-415,2017,Experimental,Best New Music Proportion,0.017543859649122806
-416,2017,Folk/Country,Best New Music Proportion,0.04878048780487805
-417,2017,Global,Best New Music Proportion,0.05555555555555555
-418,2017,Jazz,Best New Music Proportion,0.09090909090909091
-419,2017,Metal,Best New Music Proportion,0.02127659574468085
-420,2017,Pop/R&B,Best New Music Proportion,0.0707070707070707
-421,2017,Rap,Best New Music Proportion,0.04819277108433735
-422,2017,Rock,Best New Music Proportion,0.043076923076923075
-423,2018,Electronic,Best New Music Proportion,0.02857142857142857
-424,2018,Experimental,Best New Music Proportion,0.02586206896551724
-425,2018,Folk/Country,Best New Music Proportion,0.023809523809523808
-426,2018,Global,Best New Music Proportion,0.0
-427,2018,Jazz,Best New Music Proportion,0.03125
-428,2018,Metal,Best New Music Proportion,0.05714285714285714
-429,2018,Pop/R&B,Best New Music Proportion,0.05303030303030303
-430,2018,Rap,Best New Music Proportion,0.05263157894736842
-431,2018,Rock,Best New Music Proportion,0.04075235109717868
-432,2003,Electronic,Sum of AOTY Points,40.0
-433,2003,Experimental,Sum of AOTY Points,23.0
-434,2003,Folk/Country,Sum of AOTY Points,7.0
-435,2003,Global,Sum of AOTY Points,0.0
-436,2003,Jazz,Sum of AOTY Points,0.0
-437,2003,Metal,Sum of AOTY Points,1.0
-438,2003,Pop/R&B,Sum of AOTY Points,0.0
-439,2003,Rap,Sum of AOTY Points,20.0
-440,2003,Rock,Sum of AOTY Points,37.0
-441,2004,Electronic,Sum of AOTY Points,25.0
-442,2004,Experimental,Sum of AOTY Points,17.0
-443,2004,Folk/Country,Sum of AOTY Points,15.0
-444,2004,Global,Sum of AOTY Points,0.0
-445,2004,Jazz,Sum of AOTY Points,0.0
-446,2004,Metal,Sum of AOTY Points,0.0
-447,2004,Pop/R&B,Sum of AOTY Points,0.0
-448,2004,Rap,Sum of AOTY Points,24.0
-449,2004,Rock,Sum of AOTY Points,48.0
-450,2005,Electronic,Sum of AOTY Points,23.0
-451,2005,Experimental,Sum of AOTY Points,14.0
-452,2005,Folk/Country,Sum of AOTY Points,14.0
-453,2005,Global,Sum of AOTY Points,1.0
-454,2005,Jazz,Sum of AOTY Points,0.0
-455,2005,Metal,Sum of AOTY Points,0.0
-456,2005,Pop/R&B,Sum of AOTY Points,8.0
-457,2005,Rap,Sum of AOTY Points,22.0
-458,2005,Rock,Sum of AOTY Points,47.0
-459,2006,Electronic,Sum of AOTY Points,26.0
-460,2006,Experimental,Sum of AOTY Points,11.0
-461,2006,Folk/Country,Sum of AOTY Points,6.0
-462,2006,Global,Sum of AOTY Points,0.0
-463,2006,Jazz,Sum of AOTY Points,0.0
-464,2006,Metal,Sum of AOTY Points,7.0
-465,2006,Pop/R&B,Sum of AOTY Points,5.0
-466,2006,Rap,Sum of AOTY Points,16.0
-467,2006,Rock,Sum of AOTY Points,58.0
-468,2007,Electronic,Sum of AOTY Points,45.0
-469,2007,Experimental,Sum of AOTY Points,7.0
-470,2007,Folk/Country,Sum of AOTY Points,3.0
-471,2007,Global,Sum of AOTY Points,1.0
-472,2007,Jazz,Sum of AOTY Points,0.0
-473,2007,Metal,Sum of AOTY Points,0.0
-474,2007,Pop/R&B,Sum of AOTY Points,6.0
-475,2007,Rap,Sum of AOTY Points,12.0
-476,2007,Rock,Sum of AOTY Points,55.0
-477,2008,Electronic,Sum of AOTY Points,47.0
-478,2008,Experimental,Sum of AOTY Points,13.0
-479,2008,Folk/Country,Sum of AOTY Points,12.0
-480,2008,Global,Sum of AOTY Points,0.0
-481,2008,Jazz,Sum of AOTY Points,0.0
-482,2008,Metal,Sum of AOTY Points,3.0
-483,2008,Pop/R&B,Sum of AOTY Points,7.0
-484,2008,Rap,Sum of AOTY Points,7.0
-485,2008,Rock,Sum of AOTY Points,40.0
-486,2009,Electronic,Sum of AOTY Points,30.0
-487,2009,Experimental,Sum of AOTY Points,12.0
-488,2009,Folk/Country,Sum of AOTY Points,3.0
-489,2009,Global,Sum of AOTY Points,0.0
-490,2009,Jazz,Sum of AOTY Points,0.0
-491,2009,Metal,Sum of AOTY Points,1.0
-492,2009,Pop/R&B,Sum of AOTY Points,3.0
-493,2009,Rap,Sum of AOTY Points,10.0
-494,2009,Rock,Sum of AOTY Points,69.0
-495,2010,Electronic,Sum of AOTY Points,21.0
-496,2010,Experimental,Sum of AOTY Points,11.0
-497,2010,Folk/Country,Sum of AOTY Points,9.0
-498,2010,Global,Sum of AOTY Points,0.0
-499,2010,Jazz,Sum of AOTY Points,1.0
-500,2010,Metal,Sum of AOTY Points,1.0
-501,2010,Pop/R&B,Sum of AOTY Points,21.0
-502,2010,Rap,Sum of AOTY Points,20.0
-503,2010,Rock,Sum of AOTY Points,44.0
-504,2011,Electronic,Sum of AOTY Points,23.0
-505,2011,Experimental,Sum of AOTY Points,11.0
-506,2011,Folk/Country,Sum of AOTY Points,3.0
-507,2011,Global,Sum of AOTY Points,0.0
-508,2011,Jazz,Sum of AOTY Points,0.0
-509,2011,Metal,Sum of AOTY Points,2.0
-510,2011,Pop/R&B,Sum of AOTY Points,17.0
-511,2011,Rap,Sum of AOTY Points,19.0
-512,2011,Rock,Sum of AOTY Points,54.0
-513,2012,Electronic,Sum of AOTY Points,24.0
-514,2012,Experimental,Sum of AOTY Points,11.0
-515,2012,Folk/Country,Sum of AOTY Points,0.0
-516,2012,Global,Sum of AOTY Points,0.0
-517,2012,Jazz,Sum of AOTY Points,0.0
-518,2012,Metal,Sum of AOTY Points,1.0
-519,2012,Pop/R&B,Sum of AOTY Points,21.0
-520,2012,Rap,Sum of AOTY Points,20.0
-521,2012,Rock,Sum of AOTY Points,52.0
-522,2013,Electronic,Sum of AOTY Points,24.0
-523,2013,Experimental,Sum of AOTY Points,11.0
-524,2013,Folk/Country,Sum of AOTY Points,2.0
-525,2013,Global,Sum of AOTY Points,0.0
-526,2013,Jazz,Sum of AOTY Points,0.0
-527,2013,Metal,Sum of AOTY Points,5.0
-528,2013,Pop/R&B,Sum of AOTY Points,14.0
-529,2013,Rap,Sum of AOTY Points,25.0
-530,2013,Rock,Sum of AOTY Points,45.0
-531,2014,Electronic,Sum of AOTY Points,25.0
-532,2014,Experimental,Sum of AOTY Points,12.0
-533,2014,Folk/Country,Sum of AOTY Points,5.0
-534,2014,Global,Sum of AOTY Points,0.0
-535,2014,Jazz,Sum of AOTY Points,0.0
-536,2014,Metal,Sum of AOTY Points,0.0
-537,2014,Pop/R&B,Sum of AOTY Points,12.0
-538,2014,Rap,Sum of AOTY Points,19.0
-539,2014,Rock,Sum of AOTY Points,54.0
-540,2015,Electronic,Sum of AOTY Points,25.0
-541,2015,Experimental,Sum of AOTY Points,10.0
-542,2015,Folk/Country,Sum of AOTY Points,8.0
-543,2015,Global,Sum of AOTY Points,0.0
-544,2015,Jazz,Sum of AOTY Points,8.0
-545,2015,Metal,Sum of AOTY Points,1.0
-546,2015,Pop/R&B,Sum of AOTY Points,26.0
-547,2015,Rap,Sum of AOTY Points,29.0
-548,2015,Rock,Sum of AOTY Points,22.0
-549,2016,Electronic,Sum of AOTY Points,4.0
-550,2016,Experimental,Sum of AOTY Points,10.0
-551,2016,Folk/Country,Sum of AOTY Points,1.0
-552,2016,Global,Sum of AOTY Points,1.0
-553,2016,Jazz,Sum of AOTY Points,2.0
-554,2016,Metal,Sum of AOTY Points,0.0
-555,2016,Pop/R&B,Sum of AOTY Points,40.0
-556,2016,Rap,Sum of AOTY Points,33.0
-557,2016,Rock,Sum of AOTY Points,38.0
-558,2017,Electronic,Sum of AOTY Points,25.0
-559,2017,Experimental,Sum of AOTY Points,4.0
-560,2017,Folk/Country,Sum of AOTY Points,2.0
-561,2017,Global,Sum of AOTY Points,1.0
-562,2017,Jazz,Sum of AOTY Points,4.0
-563,2017,Metal,Sum of AOTY Points,0.0
-564,2017,Pop/R&B,Sum of AOTY Points,32.0
-565,2017,Rap,Sum of AOTY Points,32.0
-566,2017,Rock,Sum of AOTY Points,29.0
-567,2018,Electronic,Sum of AOTY Points,14.0
-568,2018,Experimental,Sum of AOTY Points,11.0
-569,2018,Folk/Country,Sum of AOTY Points,8.0
-570,2018,Global,Sum of AOTY Points,0.0
-571,2018,Jazz,Sum of AOTY Points,1.0
-572,2018,Metal,Sum of AOTY Points,2.0
-573,2018,Pop/R&B,Sum of AOTY Points,23.0
-574,2018,Rap,Sum of AOTY Points,34.0
-575,2018,Rock,Sum of AOTY Points,36.0
+144,2003,Electronic,Best New Music Count by Genre and Year,14.0
+145,2003,Experimental,Best New Music Count by Genre and Year,11.0
+146,2003,Folk/Country,Best New Music Count by Genre and Year,2.0
+147,2003,Global,Best New Music Count by Genre and Year,0.0
+148,2003,Jazz,Best New Music Count by Genre and Year,0.0
+149,2003,Metal,Best New Music Count by Genre and Year,0.0
+150,2003,Pop/R&B,Best New Music Count by Genre and Year,0.0
+151,2003,Rap,Best New Music Count by Genre and Year,6.0
+152,2003,Rock,Best New Music Count by Genre and Year,14.0
+153,2004,Electronic,Best New Music Count by Genre and Year,11.0
+154,2004,Experimental,Best New Music Count by Genre and Year,8.0
+155,2004,Folk/Country,Best New Music Count by Genre and Year,4.0
+156,2004,Global,Best New Music Count by Genre and Year,0.0
+157,2004,Jazz,Best New Music Count by Genre and Year,0.0
+158,2004,Metal,Best New Music Count by Genre and Year,0.0
+159,2004,Pop/R&B,Best New Music Count by Genre and Year,0.0
+160,2004,Rap,Best New Music Count by Genre and Year,4.0
+161,2004,Rock,Best New Music Count by Genre and Year,16.0
+162,2005,Electronic,Best New Music Count by Genre and Year,4.0
+163,2005,Experimental,Best New Music Count by Genre and Year,5.0
+164,2005,Folk/Country,Best New Music Count by Genre and Year,3.0
+165,2005,Global,Best New Music Count by Genre and Year,0.0
+166,2005,Jazz,Best New Music Count by Genre and Year,1.0
+167,2005,Metal,Best New Music Count by Genre and Year,0.0
+168,2005,Pop/R&B,Best New Music Count by Genre and Year,1.0
+169,2005,Rap,Best New Music Count by Genre and Year,4.0
+170,2005,Rock,Best New Music Count by Genre and Year,21.0
+171,2006,Electronic,Best New Music Count by Genre and Year,6.0
+172,2006,Experimental,Best New Music Count by Genre and Year,3.0
+173,2006,Folk/Country,Best New Music Count by Genre and Year,1.0
+174,2006,Global,Best New Music Count by Genre and Year,0.0
+175,2006,Jazz,Best New Music Count by Genre and Year,0.0
+176,2006,Metal,Best New Music Count by Genre and Year,2.0
+177,2006,Pop/R&B,Best New Music Count by Genre and Year,1.0
+178,2006,Rap,Best New Music Count by Genre and Year,2.0
+179,2006,Rock,Best New Music Count by Genre and Year,16.0
+180,2007,Electronic,Best New Music Count by Genre and Year,13.0
+181,2007,Experimental,Best New Music Count by Genre and Year,4.0
+182,2007,Folk/Country,Best New Music Count by Genre and Year,2.0
+183,2007,Global,Best New Music Count by Genre and Year,0.0
+184,2007,Jazz,Best New Music Count by Genre and Year,0.0
+185,2007,Metal,Best New Music Count by Genre and Year,0.0
+186,2007,Pop/R&B,Best New Music Count by Genre and Year,1.0
+187,2007,Rap,Best New Music Count by Genre and Year,3.0
+188,2007,Rock,Best New Music Count by Genre and Year,20.0
+189,2008,Electronic,Best New Music Count by Genre and Year,12.0
+190,2008,Experimental,Best New Music Count by Genre and Year,6.0
+191,2008,Folk/Country,Best New Music Count by Genre and Year,3.0
+192,2008,Global,Best New Music Count by Genre and Year,0.0
+193,2008,Jazz,Best New Music Count by Genre and Year,0.0
+194,2008,Metal,Best New Music Count by Genre and Year,2.0
+195,2008,Pop/R&B,Best New Music Count by Genre and Year,0.0
+196,2008,Rap,Best New Music Count by Genre and Year,1.0
+197,2008,Rock,Best New Music Count by Genre and Year,12.0
+198,2009,Electronic,Best New Music Count by Genre and Year,12.0
+199,2009,Experimental,Best New Music Count by Genre and Year,6.0
+200,2009,Folk/Country,Best New Music Count by Genre and Year,0.0
+201,2009,Global,Best New Music Count by Genre and Year,0.0
+202,2009,Jazz,Best New Music Count by Genre and Year,0.0
+203,2009,Metal,Best New Music Count by Genre and Year,1.0
+204,2009,Pop/R&B,Best New Music Count by Genre and Year,0.0
+205,2009,Rap,Best New Music Count by Genre and Year,2.0
+206,2009,Rock,Best New Music Count by Genre and Year,23.0
+207,2010,Electronic,Best New Music Count by Genre and Year,10.0
+208,2010,Experimental,Best New Music Count by Genre and Year,1.0
+209,2010,Folk/Country,Best New Music Count by Genre and Year,3.0
+210,2010,Global,Best New Music Count by Genre and Year,0.0
+211,2010,Jazz,Best New Music Count by Genre and Year,1.0
+212,2010,Metal,Best New Music Count by Genre and Year,1.0
+213,2010,Pop/R&B,Best New Music Count by Genre and Year,11.0
+214,2010,Rap,Best New Music Count by Genre and Year,4.0
+215,2010,Rock,Best New Music Count by Genre and Year,24.0
+216,2011,Electronic,Best New Music Count by Genre and Year,9.0
+217,2011,Experimental,Best New Music Count by Genre and Year,6.0
+218,2011,Folk/Country,Best New Music Count by Genre and Year,1.0
+219,2011,Global,Best New Music Count by Genre and Year,0.0
+220,2011,Jazz,Best New Music Count by Genre and Year,0.0
+221,2011,Metal,Best New Music Count by Genre and Year,3.0
+222,2011,Pop/R&B,Best New Music Count by Genre and Year,5.0
+223,2011,Rap,Best New Music Count by Genre and Year,6.0
+224,2011,Rock,Best New Music Count by Genre and Year,17.0
+225,2012,Electronic,Best New Music Count by Genre and Year,8.0
+226,2012,Experimental,Best New Music Count by Genre and Year,5.0
+227,2012,Folk/Country,Best New Music Count by Genre and Year,0.0
+228,2012,Global,Best New Music Count by Genre and Year,0.0
+229,2012,Jazz,Best New Music Count by Genre and Year,0.0
+230,2012,Metal,Best New Music Count by Genre and Year,3.0
+231,2012,Pop/R&B,Best New Music Count by Genre and Year,7.0
+232,2012,Rap,Best New Music Count by Genre and Year,5.0
+233,2012,Rock,Best New Music Count by Genre and Year,22.0
+234,2013,Electronic,Best New Music Count by Genre and Year,17.0
+235,2013,Experimental,Best New Music Count by Genre and Year,9.0
+236,2013,Folk/Country,Best New Music Count by Genre and Year,1.0
+237,2013,Global,Best New Music Count by Genre and Year,0.0
+238,2013,Jazz,Best New Music Count by Genre and Year,0.0
+239,2013,Metal,Best New Music Count by Genre and Year,1.0
+240,2013,Pop/R&B,Best New Music Count by Genre and Year,7.0
+241,2013,Rap,Best New Music Count by Genre and Year,7.0
+242,2013,Rock,Best New Music Count by Genre and Year,16.0
+243,2014,Electronic,Best New Music Count by Genre and Year,9.0
+244,2014,Experimental,Best New Music Count by Genre and Year,4.0
+245,2014,Folk/Country,Best New Music Count by Genre and Year,1.0
+246,2014,Global,Best New Music Count by Genre and Year,0.0
+247,2014,Jazz,Best New Music Count by Genre and Year,0.0
+248,2014,Metal,Best New Music Count by Genre and Year,1.0
+249,2014,Pop/R&B,Best New Music Count by Genre and Year,5.0
+250,2014,Rap,Best New Music Count by Genre and Year,2.0
+251,2014,Rock,Best New Music Count by Genre and Year,17.0
+252,2015,Electronic,Best New Music Count by Genre and Year,10.0
+253,2015,Experimental,Best New Music Count by Genre and Year,6.0
+254,2015,Folk/Country,Best New Music Count by Genre and Year,2.0
+255,2015,Global,Best New Music Count by Genre and Year,0.0
+256,2015,Jazz,Best New Music Count by Genre and Year,2.0
+257,2015,Metal,Best New Music Count by Genre and Year,2.0
+258,2015,Pop/R&B,Best New Music Count by Genre and Year,8.0
+259,2015,Rap,Best New Music Count by Genre and Year,6.0
+260,2015,Rock,Best New Music Count by Genre and Year,11.0
+261,2016,Electronic,Best New Music Count by Genre and Year,3.0
+262,2016,Experimental,Best New Music Count by Genre and Year,4.0
+263,2016,Folk/Country,Best New Music Count by Genre and Year,0.0
+264,2016,Global,Best New Music Count by Genre and Year,1.0
+265,2016,Jazz,Best New Music Count by Genre and Year,2.0
+266,2016,Metal,Best New Music Count by Genre and Year,0.0
+267,2016,Pop/R&B,Best New Music Count by Genre and Year,11.0
+268,2016,Rap,Best New Music Count by Genre and Year,10.0
+269,2016,Rock,Best New Music Count by Genre and Year,18.0
+270,2017,Electronic,Best New Music Count by Genre and Year,10.0
+271,2017,Experimental,Best New Music Count by Genre and Year,2.0
+272,2017,Folk/Country,Best New Music Count by Genre and Year,2.0
+273,2017,Global,Best New Music Count by Genre and Year,1.0
+274,2017,Jazz,Best New Music Count by Genre and Year,2.0
+275,2017,Metal,Best New Music Count by Genre and Year,1.0
+276,2017,Pop/R&B,Best New Music Count by Genre and Year,7.0
+277,2017,Rap,Best New Music Count by Genre and Year,8.0
+278,2017,Rock,Best New Music Count by Genre and Year,14.0
+279,2018,Electronic,Best New Music Count by Genre and Year,5.0
+280,2018,Experimental,Best New Music Count by Genre and Year,3.0
+281,2018,Folk/Country,Best New Music Count by Genre and Year,1.0
+282,2018,Global,Best New Music Count by Genre and Year,0.0
+283,2018,Jazz,Best New Music Count by Genre and Year,1.0
+284,2018,Metal,Best New Music Count by Genre and Year,2.0
+285,2018,Pop/R&B,Best New Music Count by Genre and Year,7.0
+286,2018,Rap,Best New Music Count by Genre and Year,12.0
+287,2018,Rock,Best New Music Count by Genre and Year,13.0
+288,2003,Electronic,Best New Music Count by Year,47.0
+289,2003,Experimental,Best New Music Count by Year,47.0
+290,2003,Folk/Country,Best New Music Count by Year,47.0
+291,2003,Global,Best New Music Count by Year,47.0
+292,2003,Jazz,Best New Music Count by Year,47.0
+293,2003,Metal,Best New Music Count by Year,47.0
+294,2003,Pop/R&B,Best New Music Count by Year,47.0
+295,2003,Rap,Best New Music Count by Year,47.0
+296,2003,Rock,Best New Music Count by Year,47.0
+297,2004,Electronic,Best New Music Count by Year,43.0
+298,2004,Experimental,Best New Music Count by Year,43.0
+299,2004,Folk/Country,Best New Music Count by Year,43.0
+300,2004,Global,Best New Music Count by Year,43.0
+301,2004,Jazz,Best New Music Count by Year,43.0
+302,2004,Metal,Best New Music Count by Year,43.0
+303,2004,Pop/R&B,Best New Music Count by Year,43.0
+304,2004,Rap,Best New Music Count by Year,43.0
+305,2004,Rock,Best New Music Count by Year,43.0
+306,2005,Electronic,Best New Music Count by Year,39.0
+307,2005,Experimental,Best New Music Count by Year,39.0
+308,2005,Folk/Country,Best New Music Count by Year,39.0
+309,2005,Global,Best New Music Count by Year,39.0
+310,2005,Jazz,Best New Music Count by Year,39.0
+311,2005,Metal,Best New Music Count by Year,39.0
+312,2005,Pop/R&B,Best New Music Count by Year,39.0
+313,2005,Rap,Best New Music Count by Year,39.0
+314,2005,Rock,Best New Music Count by Year,39.0
+315,2006,Electronic,Best New Music Count by Year,31.0
+316,2006,Experimental,Best New Music Count by Year,31.0
+317,2006,Folk/Country,Best New Music Count by Year,31.0
+318,2006,Global,Best New Music Count by Year,31.0
+319,2006,Jazz,Best New Music Count by Year,31.0
+320,2006,Metal,Best New Music Count by Year,31.0
+321,2006,Pop/R&B,Best New Music Count by Year,31.0
+322,2006,Rap,Best New Music Count by Year,31.0
+323,2006,Rock,Best New Music Count by Year,31.0
+324,2007,Electronic,Best New Music Count by Year,43.0
+325,2007,Experimental,Best New Music Count by Year,43.0
+326,2007,Folk/Country,Best New Music Count by Year,43.0
+327,2007,Global,Best New Music Count by Year,43.0
+328,2007,Jazz,Best New Music Count by Year,43.0
+329,2007,Metal,Best New Music Count by Year,43.0
+330,2007,Pop/R&B,Best New Music Count by Year,43.0
+331,2007,Rap,Best New Music Count by Year,43.0
+332,2007,Rock,Best New Music Count by Year,43.0
+333,2008,Electronic,Best New Music Count by Year,36.0
+334,2008,Experimental,Best New Music Count by Year,36.0
+335,2008,Folk/Country,Best New Music Count by Year,36.0
+336,2008,Global,Best New Music Count by Year,36.0
+337,2008,Jazz,Best New Music Count by Year,36.0
+338,2008,Metal,Best New Music Count by Year,36.0
+339,2008,Pop/R&B,Best New Music Count by Year,36.0
+340,2008,Rap,Best New Music Count by Year,36.0
+341,2008,Rock,Best New Music Count by Year,36.0
+342,2009,Electronic,Best New Music Count by Year,44.0
+343,2009,Experimental,Best New Music Count by Year,44.0
+344,2009,Folk/Country,Best New Music Count by Year,44.0
+345,2009,Global,Best New Music Count by Year,44.0
+346,2009,Jazz,Best New Music Count by Year,44.0
+347,2009,Metal,Best New Music Count by Year,44.0
+348,2009,Pop/R&B,Best New Music Count by Year,44.0
+349,2009,Rap,Best New Music Count by Year,44.0
+350,2009,Rock,Best New Music Count by Year,44.0
+351,2010,Electronic,Best New Music Count by Year,55.0
+352,2010,Experimental,Best New Music Count by Year,55.0
+353,2010,Folk/Country,Best New Music Count by Year,55.0
+354,2010,Global,Best New Music Count by Year,55.0
+355,2010,Jazz,Best New Music Count by Year,55.0
+356,2010,Metal,Best New Music Count by Year,55.0
+357,2010,Pop/R&B,Best New Music Count by Year,55.0
+358,2010,Rap,Best New Music Count by Year,55.0
+359,2010,Rock,Best New Music Count by Year,55.0
+360,2011,Electronic,Best New Music Count by Year,47.0
+361,2011,Experimental,Best New Music Count by Year,47.0
+362,2011,Folk/Country,Best New Music Count by Year,47.0
+363,2011,Global,Best New Music Count by Year,47.0
+364,2011,Jazz,Best New Music Count by Year,47.0
+365,2011,Metal,Best New Music Count by Year,47.0
+366,2011,Pop/R&B,Best New Music Count by Year,47.0
+367,2011,Rap,Best New Music Count by Year,47.0
+368,2011,Rock,Best New Music Count by Year,47.0
+369,2012,Electronic,Best New Music Count by Year,50.0
+370,2012,Experimental,Best New Music Count by Year,50.0
+371,2012,Folk/Country,Best New Music Count by Year,50.0
+372,2012,Global,Best New Music Count by Year,50.0
+373,2012,Jazz,Best New Music Count by Year,50.0
+374,2012,Metal,Best New Music Count by Year,50.0
+375,2012,Pop/R&B,Best New Music Count by Year,50.0
+376,2012,Rap,Best New Music Count by Year,50.0
+377,2012,Rock,Best New Music Count by Year,50.0
+378,2013,Electronic,Best New Music Count by Year,58.0
+379,2013,Experimental,Best New Music Count by Year,58.0
+380,2013,Folk/Country,Best New Music Count by Year,58.0
+381,2013,Global,Best New Music Count by Year,58.0
+382,2013,Jazz,Best New Music Count by Year,58.0
+383,2013,Metal,Best New Music Count by Year,58.0
+384,2013,Pop/R&B,Best New Music Count by Year,58.0
+385,2013,Rap,Best New Music Count by Year,58.0
+386,2013,Rock,Best New Music Count by Year,58.0
+387,2014,Electronic,Best New Music Count by Year,39.0
+388,2014,Experimental,Best New Music Count by Year,39.0
+389,2014,Folk/Country,Best New Music Count by Year,39.0
+390,2014,Global,Best New Music Count by Year,39.0
+391,2014,Jazz,Best New Music Count by Year,39.0
+392,2014,Metal,Best New Music Count by Year,39.0
+393,2014,Pop/R&B,Best New Music Count by Year,39.0
+394,2014,Rap,Best New Music Count by Year,39.0
+395,2014,Rock,Best New Music Count by Year,39.0
+396,2015,Electronic,Best New Music Count by Year,47.0
+397,2015,Experimental,Best New Music Count by Year,47.0
+398,2015,Folk/Country,Best New Music Count by Year,47.0
+399,2015,Global,Best New Music Count by Year,47.0
+400,2015,Jazz,Best New Music Count by Year,47.0
+401,2015,Metal,Best New Music Count by Year,47.0
+402,2015,Pop/R&B,Best New Music Count by Year,47.0
+403,2015,Rap,Best New Music Count by Year,47.0
+404,2015,Rock,Best New Music Count by Year,47.0
+405,2016,Electronic,Best New Music Count by Year,49.0
+406,2016,Experimental,Best New Music Count by Year,49.0
+407,2016,Folk/Country,Best New Music Count by Year,49.0
+408,2016,Global,Best New Music Count by Year,49.0
+409,2016,Jazz,Best New Music Count by Year,49.0
+410,2016,Metal,Best New Music Count by Year,49.0
+411,2016,Pop/R&B,Best New Music Count by Year,49.0
+412,2016,Rap,Best New Music Count by Year,49.0
+413,2016,Rock,Best New Music Count by Year,49.0
+414,2017,Electronic,Best New Music Count by Year,47.0
+415,2017,Experimental,Best New Music Count by Year,47.0
+416,2017,Folk/Country,Best New Music Count by Year,47.0
+417,2017,Global,Best New Music Count by Year,47.0
+418,2017,Jazz,Best New Music Count by Year,47.0
+419,2017,Metal,Best New Music Count by Year,47.0
+420,2017,Pop/R&B,Best New Music Count by Year,47.0
+421,2017,Rap,Best New Music Count by Year,47.0
+422,2017,Rock,Best New Music Count by Year,47.0
+423,2018,Electronic,Best New Music Count by Year,44.0
+424,2018,Experimental,Best New Music Count by Year,44.0
+425,2018,Folk/Country,Best New Music Count by Year,44.0
+426,2018,Global,Best New Music Count by Year,44.0
+427,2018,Jazz,Best New Music Count by Year,44.0
+428,2018,Metal,Best New Music Count by Year,44.0
+429,2018,Pop/R&B,Best New Music Count by Year,44.0
+430,2018,Rap,Best New Music Count by Year,44.0
+431,2018,Rock,Best New Music Count by Year,44.0
+432,2003,Electronic,Proportion BNM Given Genre,0.0546875
+433,2003,Experimental,Proportion BNM Given Genre,0.10091743119266056
+434,2003,Folk/Country,Proportion BNM Given Genre,0.06451612903225806
+435,2003,Global,Proportion BNM Given Genre,0.0
+436,2003,Jazz,Proportion BNM Given Genre,0.0
+437,2003,Metal,Proportion BNM Given Genre,0.0
+438,2003,Pop/R&B,Proportion BNM Given Genre,0.0
+439,2003,Rap,Proportion BNM Given Genre,0.1
+440,2003,Rock,Proportion BNM Given Genre,0.03349282296650718
+441,2004,Electronic,Proportion BNM Given Genre,0.046218487394957986
+442,2004,Experimental,Proportion BNM Given Genre,0.06451612903225806
+443,2004,Folk/Country,Proportion BNM Given Genre,0.08888888888888889
+444,2004,Global,Proportion BNM Given Genre,0.0
+445,2004,Jazz,Proportion BNM Given Genre,0.0
+446,2004,Metal,Proportion BNM Given Genre,0.0
+447,2004,Pop/R&B,Proportion BNM Given Genre,0.0
+448,2004,Rap,Proportion BNM Given Genre,0.05714285714285714
+449,2004,Rock,Proportion BNM Given Genre,0.03818615751789976
+450,2005,Electronic,Proportion BNM Given Genre,0.015873015873015872
+451,2005,Experimental,Proportion BNM Given Genre,0.04065040650406504
+452,2005,Folk/Country,Proportion BNM Given Genre,0.06521739130434782
+453,2005,Global,Proportion BNM Given Genre,0.0
+454,2005,Jazz,Proportion BNM Given Genre,0.1
+455,2005,Metal,Proportion BNM Given Genre,0.0
+456,2005,Pop/R&B,Proportion BNM Given Genre,0.02
+457,2005,Rap,Proportion BNM Given Genre,0.0547945205479452
+458,2005,Rock,Proportion BNM Given Genre,0.046255506607929514
+459,2006,Electronic,Proportion BNM Given Genre,0.025423728813559324
+460,2006,Experimental,Proportion BNM Given Genre,0.025423728813559324
+461,2006,Folk/Country,Proportion BNM Given Genre,0.018518518518518517
+462,2006,Global,Proportion BNM Given Genre,0.0
+463,2006,Jazz,Proportion BNM Given Genre,0.0
+464,2006,Metal,Proportion BNM Given Genre,0.04081632653061224
+465,2006,Pop/R&B,Proportion BNM Given Genre,0.014925373134328358
+466,2006,Rap,Proportion BNM Given Genre,0.03125
+467,2006,Rock,Proportion BNM Given Genre,0.033542976939203356
+468,2007,Electronic,Proportion BNM Given Genre,0.05652173913043478
+469,2007,Experimental,Proportion BNM Given Genre,0.03508771929824561
+470,2007,Folk/Country,Proportion BNM Given Genre,0.028169014084507043
+471,2007,Global,Proportion BNM Given Genre,0.0
+472,2007,Jazz,Proportion BNM Given Genre,0.0
+473,2007,Metal,Proportion BNM Given Genre,0.0
+474,2007,Pop/R&B,Proportion BNM Given Genre,0.01639344262295082
+475,2007,Rap,Proportion BNM Given Genre,0.046875
+476,2007,Rock,Proportion BNM Given Genre,0.04065040650406504
+477,2008,Electronic,Proportion BNM Given Genre,0.05357142857142857
+478,2008,Experimental,Proportion BNM Given Genre,0.05309734513274336
+479,2008,Folk/Country,Proportion BNM Given Genre,0.04838709677419355
+480,2008,Global,Proportion BNM Given Genre,0.0
+481,2008,Jazz,Proportion BNM Given Genre,0.0
+482,2008,Metal,Proportion BNM Given Genre,0.03508771929824561
+483,2008,Pop/R&B,Proportion BNM Given Genre,0.0
+484,2008,Rap,Proportion BNM Given Genre,0.013333333333333334
+485,2008,Rock,Proportion BNM Given Genre,0.026200873362445413
+486,2009,Electronic,Proportion BNM Given Genre,0.049586776859504134
+487,2009,Experimental,Proportion BNM Given Genre,0.06
+488,2009,Folk/Country,Proportion BNM Given Genre,0.0
+489,2009,Global,Proportion BNM Given Genre,0.0
+490,2009,Jazz,Proportion BNM Given Genre,0.0
+491,2009,Metal,Proportion BNM Given Genre,0.02631578947368421
+492,2009,Pop/R&B,Proportion BNM Given Genre,0.0
+493,2009,Rap,Proportion BNM Given Genre,0.029850746268656716
+494,2009,Rock,Proportion BNM Given Genre,0.05077262693156733
+495,2010,Electronic,Proportion BNM Given Genre,0.033444816053511704
+496,2010,Experimental,Proportion BNM Given Genre,0.009433962264150943
+497,2010,Folk/Country,Proportion BNM Given Genre,0.057692307692307696
+498,2010,Global,Proportion BNM Given Genre,0.0
+499,2010,Jazz,Proportion BNM Given Genre,0.09090909090909091
+500,2010,Metal,Proportion BNM Given Genre,0.023809523809523808
+501,2010,Pop/R&B,Proportion BNM Given Genre,0.14102564102564102
+502,2010,Rap,Proportion BNM Given Genre,0.047619047619047616
+503,2010,Rock,Proportion BNM Given Genre,0.06015037593984962
+504,2011,Electronic,Proportion BNM Given Genre,0.028125
+505,2011,Experimental,Proportion BNM Given Genre,0.05660377358490566
+506,2011,Folk/Country,Proportion BNM Given Genre,0.022222222222222223
+507,2011,Global,Proportion BNM Given Genre,0.0
+508,2011,Jazz,Proportion BNM Given Genre,0.0
+509,2011,Metal,Proportion BNM Given Genre,0.08571428571428572
+510,2011,Pop/R&B,Proportion BNM Given Genre,0.06578947368421052
+511,2011,Rap,Proportion BNM Given Genre,0.061855670103092786
+512,2011,Rock,Proportion BNM Given Genre,0.044854881266490766
+513,2012,Electronic,Proportion BNM Given Genre,0.027972027972027972
+514,2012,Experimental,Proportion BNM Given Genre,0.049019607843137254
+515,2012,Folk/Country,Proportion BNM Given Genre,0.0
+516,2012,Global,Proportion BNM Given Genre,0.0
+517,2012,Jazz,Proportion BNM Given Genre,0.0
+518,2012,Metal,Proportion BNM Given Genre,0.03225806451612903
+519,2012,Pop/R&B,Proportion BNM Given Genre,0.09859154929577464
+520,2012,Rap,Proportion BNM Given Genre,0.03546099290780142
+521,2012,Rock,Proportion BNM Given Genre,0.06321839080459771
+522,2013,Electronic,Proportion BNM Given Genre,0.06007067137809187
+523,2013,Experimental,Proportion BNM Given Genre,0.08256880733944955
+524,2013,Folk/Country,Proportion BNM Given Genre,0.03225806451612903
+525,2013,Global,Proportion BNM Given Genre,0.0
+526,2013,Jazz,Proportion BNM Given Genre,0.0
+527,2013,Metal,Proportion BNM Given Genre,0.011363636363636364
+528,2013,Pop/R&B,Proportion BNM Given Genre,0.08333333333333333
+529,2013,Rap,Proportion BNM Given Genre,0.0660377358490566
+530,2013,Rock,Proportion BNM Given Genre,0.04155844155844156
+531,2014,Electronic,Proportion BNM Given Genre,0.03488372093023256
+532,2014,Experimental,Proportion BNM Given Genre,0.04
+533,2014,Folk/Country,Proportion BNM Given Genre,0.027777777777777776
+534,2014,Global,Proportion BNM Given Genre,0.0
+535,2014,Jazz,Proportion BNM Given Genre,0.0
+536,2014,Metal,Proportion BNM Given Genre,0.009523809523809525
+537,2014,Pop/R&B,Proportion BNM Given Genre,0.06329113924050633
+538,2014,Rap,Proportion BNM Given Genre,0.020202020202020204
+539,2014,Rock,Proportion BNM Given Genre,0.049132947976878616
+540,2015,Electronic,Proportion BNM Given Genre,0.050505050505050504
+541,2015,Experimental,Proportion BNM Given Genre,0.075
+542,2015,Folk/Country,Proportion BNM Given Genre,0.05405405405405406
+543,2015,Global,Proportion BNM Given Genre,0.0
+544,2015,Jazz,Proportion BNM Given Genre,0.16666666666666666
+545,2015,Metal,Proportion BNM Given Genre,0.03278688524590164
+546,2015,Pop/R&B,Proportion BNM Given Genre,0.0851063829787234
+547,2015,Rap,Proportion BNM Given Genre,0.03870967741935484
+548,2015,Rock,Proportion BNM Given Genre,0.02736318407960199
+549,2016,Electronic,Proportion BNM Given Genre,0.012711864406779662
+550,2016,Experimental,Proportion BNM Given Genre,0.0380952380952381
+551,2016,Folk/Country,Proportion BNM Given Genre,0.0
+552,2016,Global,Proportion BNM Given Genre,0.05555555555555555
+553,2016,Jazz,Proportion BNM Given Genre,0.08
+554,2016,Metal,Proportion BNM Given Genre,0.0
+555,2016,Pop/R&B,Proportion BNM Given Genre,0.09821428571428571
+556,2016,Rap,Proportion BNM Given Genre,0.056179775280898875
+557,2016,Rock,Proportion BNM Given Genre,0.05504587155963303
+558,2017,Electronic,Proportion BNM Given Genre,0.04608294930875576
+559,2017,Experimental,Proportion BNM Given Genre,0.017543859649122806
+560,2017,Folk/Country,Proportion BNM Given Genre,0.04878048780487805
+561,2017,Global,Proportion BNM Given Genre,0.05555555555555555
+562,2017,Jazz,Proportion BNM Given Genre,0.09090909090909091
+563,2017,Metal,Proportion BNM Given Genre,0.02127659574468085
+564,2017,Pop/R&B,Proportion BNM Given Genre,0.0707070707070707
+565,2017,Rap,Proportion BNM Given Genre,0.04819277108433735
+566,2017,Rock,Proportion BNM Given Genre,0.043076923076923075
+567,2018,Electronic,Proportion BNM Given Genre,0.02857142857142857
+568,2018,Experimental,Proportion BNM Given Genre,0.02586206896551724
+569,2018,Folk/Country,Proportion BNM Given Genre,0.023809523809523808
+570,2018,Global,Proportion BNM Given Genre,0.0
+571,2018,Jazz,Proportion BNM Given Genre,0.03125
+572,2018,Metal,Proportion BNM Given Genre,0.05714285714285714
+573,2018,Pop/R&B,Proportion BNM Given Genre,0.05303030303030303
+574,2018,Rap,Proportion BNM Given Genre,0.05263157894736842
+575,2018,Rock,Proportion BNM Given Genre,0.04075235109717868
+576,2003,Electronic,Proportion Genre Given BNM,0.2978723404255319
+577,2003,Experimental,Proportion Genre Given BNM,0.23404255319148937
+578,2003,Folk/Country,Proportion Genre Given BNM,0.0425531914893617
+579,2003,Global,Proportion Genre Given BNM,0.0
+580,2003,Jazz,Proportion Genre Given BNM,0.0
+581,2003,Metal,Proportion Genre Given BNM,0.0
+582,2003,Pop/R&B,Proportion Genre Given BNM,0.0
+583,2003,Rap,Proportion Genre Given BNM,0.1276595744680851
+584,2003,Rock,Proportion Genre Given BNM,0.2978723404255319
+585,2004,Electronic,Proportion Genre Given BNM,0.2558139534883721
+586,2004,Experimental,Proportion Genre Given BNM,0.18604651162790697
+587,2004,Folk/Country,Proportion Genre Given BNM,0.09302325581395349
+588,2004,Global,Proportion Genre Given BNM,0.0
+589,2004,Jazz,Proportion Genre Given BNM,0.0
+590,2004,Metal,Proportion Genre Given BNM,0.0
+591,2004,Pop/R&B,Proportion Genre Given BNM,0.0
+592,2004,Rap,Proportion Genre Given BNM,0.09302325581395349
+593,2004,Rock,Proportion Genre Given BNM,0.37209302325581395
+594,2005,Electronic,Proportion Genre Given BNM,0.10256410256410256
+595,2005,Experimental,Proportion Genre Given BNM,0.1282051282051282
+596,2005,Folk/Country,Proportion Genre Given BNM,0.07692307692307693
+597,2005,Global,Proportion Genre Given BNM,0.0
+598,2005,Jazz,Proportion Genre Given BNM,0.02564102564102564
+599,2005,Metal,Proportion Genre Given BNM,0.0
+600,2005,Pop/R&B,Proportion Genre Given BNM,0.02564102564102564
+601,2005,Rap,Proportion Genre Given BNM,0.10256410256410256
+602,2005,Rock,Proportion Genre Given BNM,0.5384615384615384
+603,2006,Electronic,Proportion Genre Given BNM,0.1935483870967742
+604,2006,Experimental,Proportion Genre Given BNM,0.0967741935483871
+605,2006,Folk/Country,Proportion Genre Given BNM,0.03225806451612903
+606,2006,Global,Proportion Genre Given BNM,0.0
+607,2006,Jazz,Proportion Genre Given BNM,0.0
+608,2006,Metal,Proportion Genre Given BNM,0.06451612903225806
+609,2006,Pop/R&B,Proportion Genre Given BNM,0.03225806451612903
+610,2006,Rap,Proportion Genre Given BNM,0.06451612903225806
+611,2006,Rock,Proportion Genre Given BNM,0.5161290322580645
+612,2007,Electronic,Proportion Genre Given BNM,0.3023255813953488
+613,2007,Experimental,Proportion Genre Given BNM,0.09302325581395349
+614,2007,Folk/Country,Proportion Genre Given BNM,0.046511627906976744
+615,2007,Global,Proportion Genre Given BNM,0.0
+616,2007,Jazz,Proportion Genre Given BNM,0.0
+617,2007,Metal,Proportion Genre Given BNM,0.0
+618,2007,Pop/R&B,Proportion Genre Given BNM,0.023255813953488372
+619,2007,Rap,Proportion Genre Given BNM,0.06976744186046512
+620,2007,Rock,Proportion Genre Given BNM,0.46511627906976744
+621,2008,Electronic,Proportion Genre Given BNM,0.3333333333333333
+622,2008,Experimental,Proportion Genre Given BNM,0.16666666666666666
+623,2008,Folk/Country,Proportion Genre Given BNM,0.08333333333333333
+624,2008,Global,Proportion Genre Given BNM,0.0
+625,2008,Jazz,Proportion Genre Given BNM,0.0
+626,2008,Metal,Proportion Genre Given BNM,0.05555555555555555
+627,2008,Pop/R&B,Proportion Genre Given BNM,0.0
+628,2008,Rap,Proportion Genre Given BNM,0.027777777777777776
+629,2008,Rock,Proportion Genre Given BNM,0.3333333333333333
+630,2009,Electronic,Proportion Genre Given BNM,0.2727272727272727
+631,2009,Experimental,Proportion Genre Given BNM,0.13636363636363635
+632,2009,Folk/Country,Proportion Genre Given BNM,0.0
+633,2009,Global,Proportion Genre Given BNM,0.0
+634,2009,Jazz,Proportion Genre Given BNM,0.0
+635,2009,Metal,Proportion Genre Given BNM,0.022727272727272728
+636,2009,Pop/R&B,Proportion Genre Given BNM,0.0
+637,2009,Rap,Proportion Genre Given BNM,0.045454545454545456
+638,2009,Rock,Proportion Genre Given BNM,0.5227272727272727
+639,2010,Electronic,Proportion Genre Given BNM,0.18181818181818182
+640,2010,Experimental,Proportion Genre Given BNM,0.01818181818181818
+641,2010,Folk/Country,Proportion Genre Given BNM,0.05454545454545454
+642,2010,Global,Proportion Genre Given BNM,0.0
+643,2010,Jazz,Proportion Genre Given BNM,0.01818181818181818
+644,2010,Metal,Proportion Genre Given BNM,0.01818181818181818
+645,2010,Pop/R&B,Proportion Genre Given BNM,0.2
+646,2010,Rap,Proportion Genre Given BNM,0.07272727272727272
+647,2010,Rock,Proportion Genre Given BNM,0.43636363636363634
+648,2011,Electronic,Proportion Genre Given BNM,0.19148936170212766
+649,2011,Experimental,Proportion Genre Given BNM,0.1276595744680851
+650,2011,Folk/Country,Proportion Genre Given BNM,0.02127659574468085
+651,2011,Global,Proportion Genre Given BNM,0.0
+652,2011,Jazz,Proportion Genre Given BNM,0.0
+653,2011,Metal,Proportion Genre Given BNM,0.06382978723404255
+654,2011,Pop/R&B,Proportion Genre Given BNM,0.10638297872340426
+655,2011,Rap,Proportion Genre Given BNM,0.1276595744680851
+656,2011,Rock,Proportion Genre Given BNM,0.3617021276595745
+657,2012,Electronic,Proportion Genre Given BNM,0.16
+658,2012,Experimental,Proportion Genre Given BNM,0.1
+659,2012,Folk/Country,Proportion Genre Given BNM,0.0
+660,2012,Global,Proportion Genre Given BNM,0.0
+661,2012,Jazz,Proportion Genre Given BNM,0.0
+662,2012,Metal,Proportion Genre Given BNM,0.06
+663,2012,Pop/R&B,Proportion Genre Given BNM,0.14
+664,2012,Rap,Proportion Genre Given BNM,0.1
+665,2012,Rock,Proportion Genre Given BNM,0.44
+666,2013,Electronic,Proportion Genre Given BNM,0.29310344827586204
+667,2013,Experimental,Proportion Genre Given BNM,0.15517241379310345
+668,2013,Folk/Country,Proportion Genre Given BNM,0.017241379310344827
+669,2013,Global,Proportion Genre Given BNM,0.0
+670,2013,Jazz,Proportion Genre Given BNM,0.0
+671,2013,Metal,Proportion Genre Given BNM,0.017241379310344827
+672,2013,Pop/R&B,Proportion Genre Given BNM,0.1206896551724138
+673,2013,Rap,Proportion Genre Given BNM,0.1206896551724138
+674,2013,Rock,Proportion Genre Given BNM,0.27586206896551724
+675,2014,Electronic,Proportion Genre Given BNM,0.23076923076923078
+676,2014,Experimental,Proportion Genre Given BNM,0.10256410256410256
+677,2014,Folk/Country,Proportion Genre Given BNM,0.02564102564102564
+678,2014,Global,Proportion Genre Given BNM,0.0
+679,2014,Jazz,Proportion Genre Given BNM,0.0
+680,2014,Metal,Proportion Genre Given BNM,0.02564102564102564
+681,2014,Pop/R&B,Proportion Genre Given BNM,0.1282051282051282
+682,2014,Rap,Proportion Genre Given BNM,0.05128205128205128
+683,2014,Rock,Proportion Genre Given BNM,0.4358974358974359
+684,2015,Electronic,Proportion Genre Given BNM,0.2127659574468085
+685,2015,Experimental,Proportion Genre Given BNM,0.1276595744680851
+686,2015,Folk/Country,Proportion Genre Given BNM,0.0425531914893617
+687,2015,Global,Proportion Genre Given BNM,0.0
+688,2015,Jazz,Proportion Genre Given BNM,0.0425531914893617
+689,2015,Metal,Proportion Genre Given BNM,0.0425531914893617
+690,2015,Pop/R&B,Proportion Genre Given BNM,0.1702127659574468
+691,2015,Rap,Proportion Genre Given BNM,0.1276595744680851
+692,2015,Rock,Proportion Genre Given BNM,0.23404255319148937
+693,2016,Electronic,Proportion Genre Given BNM,0.061224489795918366
+694,2016,Experimental,Proportion Genre Given BNM,0.08163265306122448
+695,2016,Folk/Country,Proportion Genre Given BNM,0.0
+696,2016,Global,Proportion Genre Given BNM,0.02040816326530612
+697,2016,Jazz,Proportion Genre Given BNM,0.04081632653061224
+698,2016,Metal,Proportion Genre Given BNM,0.0
+699,2016,Pop/R&B,Proportion Genre Given BNM,0.22448979591836735
+700,2016,Rap,Proportion Genre Given BNM,0.20408163265306123
+701,2016,Rock,Proportion Genre Given BNM,0.3673469387755102
+702,2017,Electronic,Proportion Genre Given BNM,0.2127659574468085
+703,2017,Experimental,Proportion Genre Given BNM,0.0425531914893617
+704,2017,Folk/Country,Proportion Genre Given BNM,0.0425531914893617
+705,2017,Global,Proportion Genre Given BNM,0.02127659574468085
+706,2017,Jazz,Proportion Genre Given BNM,0.0425531914893617
+707,2017,Metal,Proportion Genre Given BNM,0.02127659574468085
+708,2017,Pop/R&B,Proportion Genre Given BNM,0.14893617021276595
+709,2017,Rap,Proportion Genre Given BNM,0.1702127659574468
+710,2017,Rock,Proportion Genre Given BNM,0.2978723404255319
+711,2018,Electronic,Proportion Genre Given BNM,0.11363636363636363
+712,2018,Experimental,Proportion Genre Given BNM,0.06818181818181818
+713,2018,Folk/Country,Proportion Genre Given BNM,0.022727272727272728
+714,2018,Global,Proportion Genre Given BNM,0.0
+715,2018,Jazz,Proportion Genre Given BNM,0.022727272727272728
+716,2018,Metal,Proportion Genre Given BNM,0.045454545454545456
+717,2018,Pop/R&B,Proportion Genre Given BNM,0.1590909090909091
+718,2018,Rap,Proportion Genre Given BNM,0.2727272727272727
+719,2018,Rock,Proportion Genre Given BNM,0.29545454545454547
+720,2003,Electronic,Sum of AOTY Points,40.0
+721,2003,Experimental,Sum of AOTY Points,23.0
+722,2003,Folk/Country,Sum of AOTY Points,7.0
+723,2003,Global,Sum of AOTY Points,0.0
+724,2003,Jazz,Sum of AOTY Points,0.0
+725,2003,Metal,Sum of AOTY Points,1.0
+726,2003,Pop/R&B,Sum of AOTY Points,0.0
+727,2003,Rap,Sum of AOTY Points,20.0
+728,2003,Rock,Sum of AOTY Points,37.0
+729,2004,Electronic,Sum of AOTY Points,25.0
+730,2004,Experimental,Sum of AOTY Points,17.0
+731,2004,Folk/Country,Sum of AOTY Points,15.0
+732,2004,Global,Sum of AOTY Points,0.0
+733,2004,Jazz,Sum of AOTY Points,0.0
+734,2004,Metal,Sum of AOTY Points,0.0
+735,2004,Pop/R&B,Sum of AOTY Points,0.0
+736,2004,Rap,Sum of AOTY Points,24.0
+737,2004,Rock,Sum of AOTY Points,48.0
+738,2005,Electronic,Sum of AOTY Points,23.0
+739,2005,Experimental,Sum of AOTY Points,14.0
+740,2005,Folk/Country,Sum of AOTY Points,14.0
+741,2005,Global,Sum of AOTY Points,1.0
+742,2005,Jazz,Sum of AOTY Points,0.0
+743,2005,Metal,Sum of AOTY Points,0.0
+744,2005,Pop/R&B,Sum of AOTY Points,8.0
+745,2005,Rap,Sum of AOTY Points,22.0
+746,2005,Rock,Sum of AOTY Points,47.0
+747,2006,Electronic,Sum of AOTY Points,26.0
+748,2006,Experimental,Sum of AOTY Points,11.0
+749,2006,Folk/Country,Sum of AOTY Points,6.0
+750,2006,Global,Sum of AOTY Points,0.0
+751,2006,Jazz,Sum of AOTY Points,0.0
+752,2006,Metal,Sum of AOTY Points,7.0
+753,2006,Pop/R&B,Sum of AOTY Points,5.0
+754,2006,Rap,Sum of AOTY Points,16.0
+755,2006,Rock,Sum of AOTY Points,58.0
+756,2007,Electronic,Sum of AOTY Points,45.0
+757,2007,Experimental,Sum of AOTY Points,7.0
+758,2007,Folk/Country,Sum of AOTY Points,3.0
+759,2007,Global,Sum of AOTY Points,1.0
+760,2007,Jazz,Sum of AOTY Points,0.0
+761,2007,Metal,Sum of AOTY Points,0.0
+762,2007,Pop/R&B,Sum of AOTY Points,6.0
+763,2007,Rap,Sum of AOTY Points,12.0
+764,2007,Rock,Sum of AOTY Points,55.0
+765,2008,Electronic,Sum of AOTY Points,47.0
+766,2008,Experimental,Sum of AOTY Points,13.0
+767,2008,Folk/Country,Sum of AOTY Points,12.0
+768,2008,Global,Sum of AOTY Points,0.0
+769,2008,Jazz,Sum of AOTY Points,0.0
+770,2008,Metal,Sum of AOTY Points,3.0
+771,2008,Pop/R&B,Sum of AOTY Points,7.0
+772,2008,Rap,Sum of AOTY Points,7.0
+773,2008,Rock,Sum of AOTY Points,40.0
+774,2009,Electronic,Sum of AOTY Points,30.0
+775,2009,Experimental,Sum of AOTY Points,12.0
+776,2009,Folk/Country,Sum of AOTY Points,3.0
+777,2009,Global,Sum of AOTY Points,0.0
+778,2009,Jazz,Sum of AOTY Points,0.0
+779,2009,Metal,Sum of AOTY Points,1.0
+780,2009,Pop/R&B,Sum of AOTY Points,3.0
+781,2009,Rap,Sum of AOTY Points,10.0
+782,2009,Rock,Sum of AOTY Points,69.0
+783,2010,Electronic,Sum of AOTY Points,21.0
+784,2010,Experimental,Sum of AOTY Points,11.0
+785,2010,Folk/Country,Sum of AOTY Points,9.0
+786,2010,Global,Sum of AOTY Points,0.0
+787,2010,Jazz,Sum of AOTY Points,1.0
+788,2010,Metal,Sum of AOTY Points,1.0
+789,2010,Pop/R&B,Sum of AOTY Points,21.0
+790,2010,Rap,Sum of AOTY Points,20.0
+791,2010,Rock,Sum of AOTY Points,44.0
+792,2011,Electronic,Sum of AOTY Points,23.0
+793,2011,Experimental,Sum of AOTY Points,11.0
+794,2011,Folk/Country,Sum of AOTY Points,3.0
+795,2011,Global,Sum of AOTY Points,0.0
+796,2011,Jazz,Sum of AOTY Points,0.0
+797,2011,Metal,Sum of AOTY Points,2.0
+798,2011,Pop/R&B,Sum of AOTY Points,17.0
+799,2011,Rap,Sum of AOTY Points,19.0
+800,2011,Rock,Sum of AOTY Points,54.0
+801,2012,Electronic,Sum of AOTY Points,24.0
+802,2012,Experimental,Sum of AOTY Points,11.0
+803,2012,Folk/Country,Sum of AOTY Points,0.0
+804,2012,Global,Sum of AOTY Points,0.0
+805,2012,Jazz,Sum of AOTY Points,0.0
+806,2012,Metal,Sum of AOTY Points,1.0
+807,2012,Pop/R&B,Sum of AOTY Points,21.0
+808,2012,Rap,Sum of AOTY Points,20.0
+809,2012,Rock,Sum of AOTY Points,52.0
+810,2013,Electronic,Sum of AOTY Points,24.0
+811,2013,Experimental,Sum of AOTY Points,11.0
+812,2013,Folk/Country,Sum of AOTY Points,2.0
+813,2013,Global,Sum of AOTY Points,0.0
+814,2013,Jazz,Sum of AOTY Points,0.0
+815,2013,Metal,Sum of AOTY Points,5.0
+816,2013,Pop/R&B,Sum of AOTY Points,14.0
+817,2013,Rap,Sum of AOTY Points,25.0
+818,2013,Rock,Sum of AOTY Points,45.0
+819,2014,Electronic,Sum of AOTY Points,25.0
+820,2014,Experimental,Sum of AOTY Points,12.0
+821,2014,Folk/Country,Sum of AOTY Points,5.0
+822,2014,Global,Sum of AOTY Points,0.0
+823,2014,Jazz,Sum of AOTY Points,0.0
+824,2014,Metal,Sum of AOTY Points,0.0
+825,2014,Pop/R&B,Sum of AOTY Points,12.0
+826,2014,Rap,Sum of AOTY Points,19.0
+827,2014,Rock,Sum of AOTY Points,54.0
+828,2015,Electronic,Sum of AOTY Points,25.0
+829,2015,Experimental,Sum of AOTY Points,10.0
+830,2015,Folk/Country,Sum of AOTY Points,8.0
+831,2015,Global,Sum of AOTY Points,0.0
+832,2015,Jazz,Sum of AOTY Points,8.0
+833,2015,Metal,Sum of AOTY Points,1.0
+834,2015,Pop/R&B,Sum of AOTY Points,26.0
+835,2015,Rap,Sum of AOTY Points,29.0
+836,2015,Rock,Sum of AOTY Points,22.0
+837,2016,Electronic,Sum of AOTY Points,4.0
+838,2016,Experimental,Sum of AOTY Points,10.0
+839,2016,Folk/Country,Sum of AOTY Points,1.0
+840,2016,Global,Sum of AOTY Points,1.0
+841,2016,Jazz,Sum of AOTY Points,2.0
+842,2016,Metal,Sum of AOTY Points,0.0
+843,2016,Pop/R&B,Sum of AOTY Points,40.0
+844,2016,Rap,Sum of AOTY Points,33.0
+845,2016,Rock,Sum of AOTY Points,38.0
+846,2017,Electronic,Sum of AOTY Points,25.0
+847,2017,Experimental,Sum of AOTY Points,4.0
+848,2017,Folk/Country,Sum of AOTY Points,2.0
+849,2017,Global,Sum of AOTY Points,1.0
+850,2017,Jazz,Sum of AOTY Points,4.0
+851,2017,Metal,Sum of AOTY Points,0.0
+852,2017,Pop/R&B,Sum of AOTY Points,32.0
+853,2017,Rap,Sum of AOTY Points,32.0
+854,2017,Rock,Sum of AOTY Points,29.0
+855,2018,Electronic,Sum of AOTY Points,14.0
+856,2018,Experimental,Sum of AOTY Points,11.0
+857,2018,Folk/Country,Sum of AOTY Points,8.0
+858,2018,Global,Sum of AOTY Points,0.0
+859,2018,Jazz,Sum of AOTY Points,1.0
+860,2018,Metal,Sum of AOTY Points,2.0
+861,2018,Pop/R&B,Sum of AOTY Points,23.0
+862,2018,Rap,Sum of AOTY Points,34.0
+863,2018,Rock,Sum of AOTY Points,36.0
